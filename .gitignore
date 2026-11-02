@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# production build
+build/
+
+# Firebase configuration of my own project (see the README)
+src/config/firebase.js
+
+# environment files, Firebase CLI files and logs
+.env*
+.firebase/
+*.log
+
+# helper files
+tree_output.txt
